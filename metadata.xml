@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:creator>mKetzer</dc:creator>
+  <dc:title>Experiment for "conf/ccs/CaoCLW17"</dc:title>
+  <dc:subject>Reproduction of the work in "Deterministic Browser." by "Yinzhi Cao, Zhanhao Chen, Song Li, Shujiang Wu"</dc:subject>
+  <dc:description>Input Here</dc:description>
+  <dc:date>2019-10-20T23:00:24.464084</dc:date>
+  <dc:type>Reproduction</dc:type>
+  <dc:language>English</dc:language>
+  <dc:identifier>https://checkresearch.org/Experiment/View/35d569a8-6353-44d7-80af-6ac08290df0b</dc:identifier>
+  <dc:identifier>https://github.com/CheckResearch/confccsCaoCLW17_Experiment_01</dc:identifier>
+  <dc:relation>10.1145/3133956.3133996</dc:relation>
+  <dc:relation>conf/ccs/CaoCLW17</dc:relation>
+</metadata>
